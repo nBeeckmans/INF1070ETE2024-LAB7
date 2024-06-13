@@ -84,12 +84,12 @@ décodé
 
 7)
 ```sh
-grep ^.......ent$ $dict
-abattaient
-abattement
-abattirent
-abolissent
-abondaient
+grep ^ent....ent$ $dict
+entaillent
+entamaient
+entamèrent
+entartrent
+enteraient
 ...
 ```
 
